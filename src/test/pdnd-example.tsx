@@ -1,3 +1,4 @@
+// src/test/pdnd-example.tsx
 import React, { useState } from 'react';
 import { PdndDraggable, PdndDropZone, PdndListItem, PdndContainer } from '../utils/pdnd-components';
 import { pdndUtils } from '../utils/pdnd-core';

@@ -1,3 +1,4 @@
+// src/utils/pdnd-core.ts
 import { useRef, useEffect, useState, useCallback } from 'react';
 import { draggable, dropTargetForElements } from '@atlaskit/pragmatic-drag-and-drop/element/adapter';
 

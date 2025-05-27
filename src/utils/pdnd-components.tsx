@@ -1,3 +1,4 @@
+// src/utils/pdnd-components.tsx
 import React from 'react';
 import { usePdndDraggable, usePdndDropTarget, pdndUtils } from './pdnd-core';
 import type { PdndData, PdndDragOptions, PdndDropOptions } from './pdnd-core';
