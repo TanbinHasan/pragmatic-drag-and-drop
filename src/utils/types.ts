@@ -1,4 +1,4 @@
-// src/utils/pdnd-template/types.ts
+// src/utils/types.ts
 export type TCard = {
   id: string;
   description: string;

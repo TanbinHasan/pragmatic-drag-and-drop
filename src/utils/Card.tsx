@@ -1,4 +1,4 @@
-// src/utils/pdnd-template/Card.tsx
+// src/utils/Card.tsx
 'use client';
 
 import {

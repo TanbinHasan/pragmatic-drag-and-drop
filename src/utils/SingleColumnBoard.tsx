@@ -1,4 +1,4 @@
-// src/utils/pdnd-template/SingleColumnBoard.tsx
+// src/utils/SingleColumnBoard.tsx
 'use client';
 
 import { extractClosestEdge } from '@atlaskit/pragmatic-drag-and-drop-hitbox/closest-edge';
