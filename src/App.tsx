@@ -1,3 +1,4 @@
+// src/App.tsx
 import { PdndExample } from './test/pdnd-example';
 
 function App() {
